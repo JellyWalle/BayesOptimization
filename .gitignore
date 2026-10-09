@@ -1,0 +1,5 @@
+*.jpg
+*.xml
+myenv
+__pycache__
+dataset/indoorCVPR_09/Images/studiomusic/myStudio2.png
